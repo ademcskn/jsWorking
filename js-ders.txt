@@ -1,0 +1,2 @@
+github dan herhangi bir js projesi indirdiğinde genelde paketler yüklü gelmez npn run dev çalışmaz,
+paketlerin yüklenebilmesi için terminalden npm install yaz.
